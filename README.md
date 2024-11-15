@@ -1,5 +1,5 @@
 <p style="text-align: center" align="center">
-  <strong>DEVELOPER</strong> | <a href="https://t.me/shkilass">MY TELEGRAM</a>
+  <strong>DEVELOPER</strong> | <a href="https://t.me/artxdev0">MY TELEGRAM</a>
 </p>
 
 <p align="center">
@@ -16,6 +16,6 @@
 </p>
 
 <div> 
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=shkilass&show_icons=true&theme=transparent&hide_title=true&hide_border=true&line_height=19&card_width=350" alt="stats"></a>
-  <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shkilass&theme=transparent&hide_border=true&layout=compact&card_width=350" alt="rj"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=artxdev0&show_icons=true&theme=transparent&hide_title=true&hide_border=true&line_height=19&card_width=350" alt="stats"></a>
+  <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artxdev0&theme=transparent&hide_border=true&layout=compact&card_width=350" alt="rj"></a>
 </div>
