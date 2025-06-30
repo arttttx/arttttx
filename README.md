@@ -1,5 +1,5 @@
 <p style="text-align: center" align="center">
-  <strong>DEVELOPER</strong> | <a href="https://t.me/arttttx">MY TELEGRAM</a>
+  <strong>DEVELOPER, DATA SCIENTIST and just a chill guy😎</strong> | <a href="https://t.me/arttttx">MY TELEGRAM</a>
 </p>
 
 <p align="center">
@@ -13,6 +13,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&amp;logo=Python&amp;logoColor=white" alt="py"></a>
   <a href="#"><img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" alt="dnet"></a>
   <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&amp;logo=Visual-Studio-Code&amp;logoColor=white" alt="vsc"></a>
+  <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="trch"></a>
 </p>
 
 <div> 
