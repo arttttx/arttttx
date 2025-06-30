@@ -1,12 +1,12 @@
 <p style="text-align: center" align="center">
-  <strong>DEVELOPER</strong> | <a href="https://t.me/artxdev0">MY TELEGRAM</a>
+  <strong>DEVELOPER</strong> | <a href="https://t.me/arttttx">MY TELEGRAM</a>
 </p>
 
 <p align="center">
-  <img src="https://github.com/shkilass/shkilass/raw/main/imgs/github-profile.gif" />
+  <img src="https://github.com/arttttx/arttttx/raw/main/imgs/github-profile.gif" />
 </p>
 <p align="center">
-  <a href="https://t.me/shkilass"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&amp;logo=Telegram&amp;logoColor=white" alt="tg"></a>
+  <a href="https://t.me/arttttx"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&amp;logo=Telegram&amp;logoColor=white" alt="tg"></a>
   <a href="https://pypi.org/user/ftdot/"><img src="https://img.shields.io/badge/PyPI-3775A9.svg?style=for-the-badge&amp;logo=PyPI&amp;logoColor=white" alt="pypi"></a>
   <a href="#"><img src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&amp;logo=Rust&amp;logoColor=white" alt="rst"></a>
   <a href="#"><img src="https://img.shields.io/badge/Golang-29BEB0.svg?style=for-the-badge&amp;logo=Go&amp;logoColor=white" alt="golang"></a>
